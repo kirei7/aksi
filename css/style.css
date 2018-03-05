@@ -187,6 +187,9 @@ a.link-inner {
 #section-main-atricles .section-header {
     margin-bottom: 48px;
 }
+.swiper-container {
+	overflow: visible;
+}
 .articles-item {
     max-width: 330px;
 }

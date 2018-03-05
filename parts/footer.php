@@ -1,7 +1,7 @@
 <footer id="page-footer">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-xl-10">
+            <div class="col-xl-10 text-center">
                 <p>AKSI Хiмчiстка-пральня ©2017</p>
             </div>
         </div>
