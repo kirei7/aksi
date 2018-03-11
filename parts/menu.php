@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg">
-    <a class="navbar-brand menu-logo" href="#">
+    <a class="navbar-brand menu-logo" href="/">
         <img src="img/logo.png">
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -8,13 +8,13 @@
     <div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
         <ul class="navbar-nav mx-auto">
             <li class="nav-item active">
-                <a class="nav-link" href="#">О нас</a>
+                <a class="nav-link" href="#">Про нас</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Послуги</a>
+                <a class="nav-link" href="#">Корисні статті</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Ціни</a>
+                <a class="nav-link" href="prices.php">Послуги</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Контакти</a>
