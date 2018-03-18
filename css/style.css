@@ -79,7 +79,7 @@ a.link-inner {
 #section-main-newslist {
     overflow: hidden;
 }
-.news-container {
+/*.news-container {
     margin-left: 105px;
     max-width: 350px;
 }
@@ -99,6 +99,23 @@ a.link-inner {
 }
 .news-item .news-text {
     line-height: 1.2;
+}*/
+.faq-prev {
+    margin-left: 105px;
+}
+.faq-prev-header {
+    font-size: 55px;
+    color: white;
+}
+.faq-prev ul>li>a {
+    display: inline-block;
+    font-size: 32px;
+    color: white;
+    margin: 2px auto;
+ }
+.faq-prev ul>li>a:hover {
+    color: #cccccc;
+    text-decoration: none;
 }
 /*newslist end*/
 .section-header {
@@ -243,6 +260,27 @@ a.link-inner {
 /*reception end*/
 /*main styles end*/
 
+
+/*faq styles*/
+.faq-block {
+    margin-bottom: 25px;
+    font-size: 24px;
+    color: #094581;
+}
+.faq-block {
+    margin-top: 15px;
+}
+.faq-block p {
+    margin: 0;
+}
+.faq-block p:first-child:before {
+    content: "Q: ";
+}
+.faq-block p:last-child:before {
+    content: "A: ";
+}
+
+/*faq styles end*/
 
 @media screen and (max-width: 1199px) {
     nav.navbar {

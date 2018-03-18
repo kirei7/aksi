@@ -1,0 +1,22 @@
+div.prices-item {
+    max-width: none;
+    align-items: center;
+    padding: 20px 0;
+    border-top: 1px solid #ccc;
+}
+form {
+    margin: 0;
+}
+#section-price-edit {
+    background: #eee;
+    padding: 30px 0 30px;
+}
+#section-price-edit .container {
+    background: white;
+    font-family: Calibri;
+}
+#section-price-edit .container * {
+    font-family: Calibri;
+    font-weight: 700;
+    font-size: 19px;
+}

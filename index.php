@@ -8,7 +8,7 @@
 <?php include_once "parts/menu.php" ?>
 <div id="section-main-newslist" class="position-relative">
     <div class="position-absolute w-100 h-100 d-flex align-items-center">
-        <div class="news-container w-100">
+        <!--<div class="news-container w-100">
             <h2 class="news-header">Новости</h2>
             <div>
                 <div class="news-item">
@@ -28,7 +28,18 @@
                 </div>
             </div>
             <a href="#" class="link-inner">Все новости</a>
+        </div>-->
+        <div class="w-100 faq-prev">
+            <h2 class="faq-prev-header">FAQ</h2>
+            <div>
+                <ul class="list-unstyled">
+                    <li><a href="faq.php">Хто ми такі?</a></li>
+                    <li><a href="faq.php">Навіщо ми існуємо?</a></li>
+                    <li><a href="faq.php">У чому сенс життя?</a></li>
+                </ul>
+            </div>
         </div>
+
     </div>
     <img src="img/news-slider-bg.jpg">
 </div>
